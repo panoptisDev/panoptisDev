@@ -6,7 +6,7 @@
 - ⚡ Fun fact: i like Salty liquorice and dogs (i dont eat dogs, well hot dogs of course)
 
 <div align="center" style="display: inline_block">
-  <a href="https://www.linkedin.com/"  >
+ 
     <img height="80" widith="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" />
   </a>
 </div>
@@ -29,8 +29,4 @@
     <img align="center" height="30" widith="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
   </a>
 </div>
-<div style="display: inline_block" align="center">
-  <a href="https://github.com/panoptisDev">
-    <img align="center" src="https://github.com/panoptisDev/panoptisDev/blob/output/github-contribution-grid-snake.svg" />
-  </a>
-</div>
+
