@@ -1,7 +1,7 @@
 ### HI 👋
 
-- 🔭 I’m currently working on DEFI, NFTMarketplace,  
-- 🌱 I’m currently learning CSS  
+- 🔭 I’m currently working on EVM Blockshains, DEFI, NFTMarketplace,  
+- 🌱 I’m currently learning CSS, Tailwind  
 - 🤔 I’m looking for help with UI design
 - ⚡ Fun fact: i like Salty liquorice and dogs (i dont eat dogs, well hot dogs of course)
 
@@ -29,9 +29,6 @@
     <img align="center" height="30" widith="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
   </a>
 </div>
-
-
-  
 <div style="display: inline_block" align="center">
   <a href="https://github.com/panoptisDev">
     <img align="center" src="https://github.com/panoptisDev/panoptisDev/blob/output/github-contribution-grid-snake.svg" />
