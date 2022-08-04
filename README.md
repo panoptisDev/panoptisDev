@@ -6,8 +6,6 @@
 - ⚡ Fun fact: i like Salty liquorice and dogs (i dont eat dogs, well hot dogs of course)
 
 <div align="center" style="display: inline_block">
- 
-    <img height="80" widith="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" />
   </a>
 </div>
 
