@@ -11,8 +11,8 @@
 
 <div align="center">
   <a href="https://github.com/panoptisDev">
-    <img height="250em" src="https://github-readme-stats.vercel.app/api?username=panoptisDev&count_private=true&show_icons=true&theme=dracula&hide_border=true"/>
-    <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=panoptisDev&theme=dracula&hide_border=true"/>
+    <img height="300em" src="https://github-readme-stats.vercel.app/api?username=panoptisDev&count_private=true&show_icons=true&theme=dracula&hide_border=true"/>
+    <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=panoptisDev&theme=dracula&hide_border=true"/>
   </a>
 </div>
 
