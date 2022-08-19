@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on EVM Blockshains, DEFI, NFTMarketplace,  
 - 🌱 I’m currently learning CSS, Tailwind  
 - 🤔 I’m looking for help with UI design
-- ⚡ Fun fact: i like Salty liquorice and dogs (i dont eat dogs, well hot dogs of course...)
+- ⚡ Fun fact: i like Salty liquorice and dogs (i dont eat dogs, well hot dogs of course, but you get the picture...)
 
 <div align="center" style="display: inline_block">
   </a>
