@@ -4,10 +4,10 @@
 - 🌱 I’m currently learning CSS, Tailwind  
 - 🤔 I’m looking for help with UI design
 - ⚡ Fun fact: i like Salty liquorice and dogs (i dont eat dogs, well hot dogs of course, but you get the picture...)
-[![panoptisDev's GitHub stats]
+[![panoptisDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=panoptisDev&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
-  <a (https://github-readme-stats.vercel.app/api?username=panoptisDev&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  <a 
   </a>
 </div>
 
