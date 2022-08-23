@@ -6,13 +6,11 @@
 - ⚡ Fun fact: i like Salty liquorice and dogs (i dont eat dogs, well hot dogs of course, but you get the picture...)
 
 <div align="center" style="display: inline_block">
-  </a>
+  </a>[![panoptisDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=panoptisDev&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <div align="center">
-  <a href="https://github.com/panoptisDev">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=panoptisDev&count_private=true&show_icons=true&theme=dracula&hide_border=true"/>
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=panoptisDev&theme=dracula&hide_border=true"/>
+  <a 
   </a>
 </div>
 
