@@ -1,10 +1,6 @@
 
 ![github1](https://user-images.githubusercontent.com/87525579/186960102-a51c989e-55cf-4f89-b27c-8ce1ee574cce.png)
 
-- 🔭 I’m currently working on EVM Blockshains, DEFI, NFTMarketplace,  
-- 🌱 I’m currently learning CSS, Tailwind  
-- 🤔 I’m looking for help with UI design
-- ⚡ Fun fact: i like Salty liquorice and dogs (i dont eat dogs, well hot dogs of course, but you get the picture...)
 [![panoptisDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=panoptisDev&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](path/to/image.png)
@@ -20,5 +16,10 @@
     <img align="center" height="30" widith="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
   </a>
 </div>
+
+- 🔭 I’m currently working on EVM Blockshains, DEFI, NFTMarketplace,  
+- 🌱 I’m currently learning CSS, Tailwind  
+- 🤔 I’m looking for help with UI design
+- ⚡ Fun fact: i like Salty liquorice and dogs (i dont eat dogs, well hot dogs of course, but you get the picture...)
 
 
