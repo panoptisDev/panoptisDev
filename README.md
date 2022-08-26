@@ -1,4 +1,4 @@
-![alt text]https://github.com/panoptisDev/panoptisDev/blob/main/screenshot/github1.png
+<img src="https://github.com/panoptisDev/panoptisDev/blob/main/screenshot/github1.png
 ### HI 👋
 
 - 🔭 I’m currently working on EVM Blockshains, DEFI, NFTMarketplace,  
