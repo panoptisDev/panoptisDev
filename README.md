@@ -1,7 +1,7 @@
 
 ![github1](https://user-images.githubusercontent.com/87525579/186960102-a51c989e-55cf-4f89-b27c-8ce1ee574cce.png)
 
-[![panoptisDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=panoptisDev&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/panoptisDev/github-readme-stats)
+[![panoptisDev's GitHub stats]<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abh80&show_icons=true&locale=en&theme=tokyonight" alt="abh80" /></p>
 
 ![](path/to/image.png)
 
@@ -24,4 +24,4 @@
 - 🤔 I’m looking for help with UI design
 - ⚡ Fun fact: i like Salty liquorice and dogs (i dont eat dogs, well hot dogs of course, but you get the picture...)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abh80&show_icons=true&locale=en&theme=tokyonight" alt="abh80" /></p>
+
