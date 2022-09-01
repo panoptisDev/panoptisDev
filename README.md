@@ -17,7 +17,7 @@
   </a>
 </div>
 
-
+<a href="https://twitter.com/trackerstars" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="trackerstars" height="30" width="40" /></a>
 
 - 🔭 I’m currently working on EVM Blockshains, DEFI, NFTMarketplace,  
 - 🌱 I’m currently learning CSS, Tailwind  
