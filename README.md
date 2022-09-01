@@ -24,4 +24,4 @@
 - 🤔 I’m looking for help with UI design
 - ⚡ Fun fact: i like Salty liquorice and dogs (i dont eat dogs, well hot dogs of course, but you get the picture...)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=panoptisDev&show_icons=true&locale=en&theme=tokyonight" alt="panoptisDev" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abh80&show_icons=true&locale=en&theme=tokyonight" alt="abh80" /></p>
