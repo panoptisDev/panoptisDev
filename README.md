@@ -1,7 +1,7 @@
 
 ![github1](https://user-images.githubusercontent.com/87525579/186960102-a51c989e-55cf-4f89-b27c-8ce1ee574cce.png)
 
-[![panoptisDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=panoptisDev&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![panoptisDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=panoptisDev&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/panoptisDev/github-readme-stats)
 
 ![](path/to/image.png)
 
