@@ -19,9 +19,9 @@
 
 
 
-- 🔭 I’m currently working on EVM Blockshains, DEFI, NFTMarketplace,  
-- 🌱 I’m currently learning CSS, Tailwind  
-- 🤔 I’m looking for help with UI design
+- 🔭 I’m currently working on EVM Blockshains, DEFI, NFTMarketplaces, 
+- 🤔 I’m not looking for help at the moment
 - ⚡ Fun fact: i like Salty liquorice and dogs (i dont eat dogs, well hot dogs of course, but you get the picture...)
+- 🌱
 
 
