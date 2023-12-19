@@ -1,7 +1,7 @@
 
 ![github1](https://user-images.githubusercontent.com/87525579/186960102-a51c989e-55cf-4f89-b27c-8ce1ee574cce.png)
 
-[![panoptisDev's GitHub stats]<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abh80&show_icons=true&locale=en&theme=tokyonight" alt="panoptisDev" /></p>
+[![panoptisDev's GitHub stats]<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=panoptisDev&show_icons=true&locale=en&theme=tokyonight" alt="panoptisDev" /></p>
 
 ![](path/to/image.png)
 
