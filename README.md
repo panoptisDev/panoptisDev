@@ -28,6 +28,7 @@
 - 🌱 https://panogreenstake.netlify.app/
 - 🌱 https://cobra-multisender-app.vercel.app/
 - 🌱 https://roar-token-bridge.onrender.com/
+- 🌱 https://stt-faucet-ui.vercel.app/
 
 
 
