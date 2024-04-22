@@ -22,7 +22,7 @@
 - 🔭 I’m currently working on EVM Blockshains, DEFI, NFTMarketplaces, 
 - 🤔 I’m not looking for help at the moment
 - ⚡ Fun fact: i like Salty liquorice and dogs (i dont eat dogs, well hot dogs of course, but you get the picture...)
-- Here are som of my projects.
+- Here are some of my projects.
 - 🌱 https://panda-token-generator.onrender.com
 - 🌱 https://propaganda-ten.vercel.app/
 - 🌱 https://panogreenstake.netlify.app/
