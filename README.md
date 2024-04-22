@@ -29,7 +29,7 @@
 - 🌱 multichain: https://cobra-multisender-app.vercel.app/
 - 🌱 multichain: https://roar-token-bridge.onrender.com/
 - 🌱 sepolia: https://stt-faucet-ui.vercel.app/
-
+- 🌱 https://panda-token-generator.vercel.app/
 
 
 
