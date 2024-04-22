@@ -23,12 +23,12 @@
 - 🤔 I’m not looking for help at the moment
 - ⚡ Fun fact: i like Salty liquorice and dogs (i dont eat dogs, well hot dogs of course, but you get the picture...)
 - Here are some of my projects.
-- 🌱 https://bee-token-generator.vercel.app/
-- 🌱 https://propaganda-ten.vercel.app/
-- 🌱 https://panogreenstake.netlify.app/
-- 🌱 https://cobra-multisender-app.vercel.app/
-- 🌱 https://roar-token-bridge.onrender.com/
-- 🌱 https://stt-faucet-ui.vercel.app/
+- 🌱blast sepolia: https://bee-token-generator.vercel.app/
+- 🌱 sepolia: https://propaganda-ten.vercel.app/
+- 🌱 sepolia: https://panogreenstake.netlify.app/
+- 🌱 multichain: https://cobra-multisender-app.vercel.app/
+- 🌱 multichain: https://roar-token-bridge.onrender.com/
+- 🌱 sepolia: https://stt-faucet-ui.vercel.app/
 
 
 
