@@ -30,6 +30,7 @@
 - 🌱 multichain: https://roar-token-bridge.onrender.com/
 - 🌱 sepolia: https://stt-faucet-ui.vercel.app/
 - 🌱 bsc test: https://panda-token-generator.vercel.app/
+- 🌱 sepolia: https://lets-buymeacoffee.netlify.app/
 
 
 
