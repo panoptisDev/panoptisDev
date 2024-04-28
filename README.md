@@ -19,19 +19,31 @@
 
 
 
-- 🔭 I’m currently working on EVM Blockshains, DEFI, NFTMarketplaces, 
-- 🤔 I’m not looking for help at the moment
-- ⚡ Fun fact: i like Salty liquorice and dogs (i dont eat dogs, well hot dogs of course, but you get the picture...)
-- Here are some of my projects.
-- 🌱blast sepolia: https://bee-token-generator.vercel.app/
-- 🌱 sepolia: https://propaganda-ten.vercel.app/
-- 🌱 sepolia: https://panogreenstake.netlify.app/
-- 🌱 multichain: https://cobra-multisender-app.vercel.app/
-- 🌱 multichain: https://roar-token-bridge.onrender.com/
-- 🌱 sepolia: https://stt-faucet-ui.vercel.app/
-- 🌱 bsc test: https://panda-token-generator.vercel.app/
-- 🌱 sepolia: https://lets-buymeacoffee.netlify.app/
-- 🌱 sepolia: https://popcorn-coin-stake-dapp.vercel.app/
+# 🔭 I’m currently working on EVM Blockshains, DEFI, NFTMarketplaces,
+
+## 🤔 I’m not looking for help at the moment
+
+### ⚡ Fun fact: i like Salty liquorice and dogs (i dont eat dogs, well hot dogs of course, but you get the picture...)
+
+# Here are some of my projects.
+
+## 🌱blast sepolia: https://bee-token-generator.vercel.app/
+
+## 🌱 sepolia: https://propaganda-ten.vercel.app/
+
+## 🌱 sepolia: https://panogreenstake.netlify.app/
+
+## 🌱 multichain: https://cobra-multisender-app.vercel.app/
+
+## 🌱 multichain: https://roar-token-bridge.onrender.com/
+
+## 🌱 sepolia: https://stt-faucet-ui.vercel.app/
+
+## 🌱 bsc test: https://panda-token-generator.vercel.app/
+
+## 🌱 sepolia: https://lets-buymeacoffee.netlify.app/
+
+## 🌱 sepolia: https://popcorn-coin-stake-dapp.vercel.app/
 
 
 
