@@ -26,6 +26,8 @@
 
 # Here are some of my projects.
 
+### 🌱 : https://showcase-panoptis.vercel.app/
+
 ### 🌱blast sepolia: https://bee-token-generator.vercel.app/
 ### 🌱 sepolia: https://propaganda-ten.vercel.app/
 ### 🌱 sepolia: https://panogreenstake.netlify.app/
