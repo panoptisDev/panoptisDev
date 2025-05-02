@@ -20,7 +20,7 @@
 
 * 🔭 I’m currently working on EVM Blockshains, DEFI, NFTMarketplaces, Token staking, Contract development.
 
-* 🤔 I’m not looking for help at the moment
+* 📃 "I specialize in TypeScript development and deliver my highest quality output using it."
 
 * ⚡ Fun fact: i like Salty liquorice and dogs (i dont eat dogs, well hot dogs of course, but you get the picture...)
 
