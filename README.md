@@ -25,8 +25,10 @@
 * ⚡ Fun fact: i like Salty liquorice and dogs (i dont eat dogs, well hot dogs of course, but you get the picture...)
 
 # Here are some of my projects.
-### 🌱 Ai  https://panoptis-ai-app-chat.vercel.app
 
+
+### 🌱 Ai  https://panoptis-ai-app-chat.vercel.app
+### 🌱 polygonAmoy: https://fracztokens-launchpad.vercel.app/
 ### 🌱 polygonAmoy: https://elefantblackjack.netlify.app/
 ### 🌱 https://showcase-panoptis.vercel.app/
 ### 🌱 blast sepolia: https://bee-token-generator.vercel.app/
