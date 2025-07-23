@@ -28,7 +28,7 @@
 
 
 ### 🌱 Ai  https://panoptis-ai-app-chat.vercel.app
-### 🌱 polygonAmoy: https://fracztoken-launchpad-25-07-10-erc-2.vercel.app/
+### 🌱 polygonAmoy: https://fracztoken-launchpad.vercel.app/
 ### 🌱 polygonAmoy: https://elefantblackjack.netlify.app/
 ### 🌱 https://showcase-panoptis.vercel.app/
 ### 🌱 blast sepolia: https://bee-token-generator.vercel.app/
