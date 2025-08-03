@@ -26,8 +26,8 @@
 
 # Here are some of my projects.
 
-
-### 🌱 Ai  https://panoptis-ai-app-chat.vercel.app
+### 🤖 Ai https://ai-powered-security-analyzer.vercel.app/
+### 🤖 Ai https://panoptis-ai-app-chat.vercel.app
 ### 🌱 polygonAmoy: https://fracztoken-launchpad.vercel.app/
 ### 🌱 polygonAmoy: https://elefantblackjack.netlify.app/
 ### 🌱 https://showcase-panoptis.vercel.app/
