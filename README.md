@@ -25,7 +25,7 @@
 * ⚡ Fun fact: i like Salty liquorice and dogs (i dont eat dogs, well hot dogs of course, but you get the picture...)
 
 # Here are some of my projects.
-### 🌱 pact Kadena:moonsters-staking-kadena.vercel.app
+### 🌱 pact Kadena: https://moonsters-staking-kadena.vercel.app
 ### 🌱 polygonAmoy: https://token-transmitter.vercel.app/
 ### 📝 docs https://panoptis-chain-docs.vercel.app
 ### 🤖 Ai https://ai-powered-security-analyzer.vercel.app/
